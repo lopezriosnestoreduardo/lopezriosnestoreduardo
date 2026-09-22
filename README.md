@@ -12,8 +12,8 @@ Piezas pequeñas de mis productos, empaquetadas como kits usables con Claude Cod
 
 | Kit | Para quién | Qué hace |
 |---|---|---|
-| **[nds-score-mama-kit](https://github.com/lopezriosnestoreduardo-debug/nds-score-mama-kit)** | Obstetras · enfermeras materno-perinatales | Calcula Score MAMÁ (Res. 3280/2018 MinSalud) en 5 segundos. Genera PDF listo para historia clínica. |
-| **[nds-weibull-kit](https://github.com/lopezriosnestoreduardo-debug/nds-weibull-kit)** | Ingenieros de mantenimiento | Análisis Weibull de confiabilidad: β, η, MTBF, B10/B50/B90 + recomendación operativa. |
+| **[nds-score-mama-kit](https://github.com/lopezriosnestoreduardo/nds-score-mama-kit)** | Obstetras · enfermeras materno-perinatales | Calcula Score MAMÁ (Res. 3280/2018 MinSalud) en 5 segundos. Genera PDF listo para historia clínica. |
+| **[nds-weibull-kit](https://github.com/lopezriosnestoreduardo/nds-weibull-kit)** | Ingenieros de mantenimiento | Análisis Weibull de confiabilidad: β, η, MTBF, B10/B50/B90 + recomendación operativa. |
 
 ## 🏭 Productos NDS (privados, licenciados)
 
