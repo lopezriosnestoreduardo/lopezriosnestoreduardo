@@ -6,14 +6,15 @@ Filosofía: la IA que corre en la máquina del cliente, sin cloud, sin subir dat
 
 ---
 
-## 🧪 Kits públicos (descargables)
+## 🧪 Kits públicos (demo gratuita)
 
-Piezas pequeñas de mis productos, empaquetadas como kits usables con Claude Code:
+Piezas pequeñas de mis productos, empaquetadas como kits usables con Claude Code.
+El motor funciona completo — la versión de pago agrega PDF, más ejemplos y slash commands.
 
-| Kit | Para quién | Qué hace |
-|---|---|---|
-| **[nds-score-mama-kit](https://github.com/lopezriosnestoreduardo/nds-score-mama-kit)** | Obstetras · enfermeras materno-perinatales | Calcula Score MAMÁ (Res. 3280/2018 MinSalud) en 5 segundos. Genera PDF listo para historia clínica. |
-| **[nds-weibull-kit](https://github.com/lopezriosnestoreduardo/nds-weibull-kit)** | Ingenieros de mantenimiento | Análisis Weibull de confiabilidad: β, η, MTBF, B10/B50/B90 + recomendación operativa. |
+| Kit | Para quién | Qué hace | Completa |
+|---|---|---|---|
+| **[nds-score-mama-kit](https://github.com/lopezriosnestoreduardo/nds-score-mama-kit)** | Obstetras · enfermeras materno-perinatales | Calcula Score MAMÁ (Res. 3280/2018 MinSalud) en 5 segundos. | [$29 USD](https://nestordatastudio.netlify.app) |
+| **[nds-weibull-kit](https://github.com/lopezriosnestoreduardo/nds-weibull-kit)** | Ingenieros de mantenimiento | Análisis Weibull de confiabilidad: β, η, MTBF, B10/B50/B90 + recomendación operativa. | [$39 USD](https://nestordatastudio.netlify.app) |
 
 ## 🏭 Productos NDS (privados, licenciados)
 
